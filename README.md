@@ -5,6 +5,13 @@ Proximity Pulse is a distance-sensing project using an ultrasonic sensor and LED
 - Ultrasonic detection
 - Visual feedback
 - Quick responsivity
+
+## Components Used
+- Arduino Uno
+- HR-S04 Ultrasonic Sensor
+- LEDs (3)
+- 220Ω resistors (current limiting)
+- Breadbord, Jumper Wires
   
 Schematic Diagram:
 ![Schematic Diagram for Proximity Pulse ](<Schematics.png>)
