@@ -12,6 +12,12 @@ Proximity Pulse is a distance-sensing project using an ultrasonic sensor and LED
 - LEDs (3)
 - 220Ω resistors (current limiting)
 - Breadbord, Jumper Wires
-  
+
+## How It Works
+- The ultrasonic sensor begins to check the surrounding area for the nearest obstacle
+- If it is greater than 20cm away, the yellow LED comes on
+- If it is between 10 and 20 cm the blue LED comes on
+- 
+- 
 Schematic Diagram:
 ![Schematic Diagram for Proximity Pulse ](<Schematics.png>)
