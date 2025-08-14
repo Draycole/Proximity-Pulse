@@ -19,7 +19,10 @@ Proximity Pulse is a distance-sensing project using an ultrasonic sensor and LED
 - If it is between 10 and 20 cm the blue LED comes on
 - If it is between 5 and 10cm the red LED comes on
 - If it less than 5 cm from the setup the red LED starts blinking/flashing
--  
+
+## Circuit Schematic
+You can find the project's schematic diagram here. I developed this using TinkerCAD <sup>TM</sup> <br>
+
 
 Schematic Diagram:
 ![Schematic Diagram for Proximity Pulse ](<Schematics.png>)
