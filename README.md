@@ -21,8 +21,9 @@ Proximity Pulse is a distance-sensing project using an ultrasonic sensor and LED
 - If it less than 5 cm from the setup the red LED starts blinking/flashing
 
 ## Circuit Schematic
-You can find the project's schematic diagram here. I developed this using TinkerCAD <sup>TM</sup> <br>
+You can find the project's schematic diagram here. I developed this using Autodesk TinkerCAD <sup>TM</sup> <br>
+[Proximity Pulse](https://www.tinkercad.com/things/eTBbMjdrQHL-proximity-pulse?sharecode=MQEL_E4p8G5Br_33uxtblqiFTZ2mA-BoZ06l5Wf13TI)
 
-
-Schematic Diagram:
-![Schematic Diagram for Proximity Pulse ](<Schematics.png>)
+## Demo
+I put the demonstration video on my portfolio page. Follow the link to get to the site.
+[Demo Video](https://munachimsohenry.wixsite.com/my-site/copy-of-project-2-the-led-knight-r#:~:text=based%20warning%20systems.-,Demonstration%20Video,-In%20this%20demo)
