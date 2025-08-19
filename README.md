@@ -27,3 +27,6 @@ You can find the project's schematic diagram here. I developed this using Autode
 ## Demo
 I put the demonstration video on my portfolio page. Follow the link to get to the site.
 [Demo Video](https://munachimsohenry.wixsite.com/my-site/copy-of-project-2-the-led-knight-r#:~:text=based%20warning%20systems.-,Demonstration%20Video,-In%20this%20demo)
+
+## Notes
+- 500ms delay between readings
