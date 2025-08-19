@@ -28,7 +28,7 @@ void loop() {
   // Measure the time it takes to receive the echo
   long duration = pulseIn(echoPin, HIGH);
 
-  // Convert duration to distance in cm; speed of sound assumed to be 340m/s
+  // Convert duration to distance in cm (speed of sound assumed to be 340m/s)
   long distance = duration * 0.034 / 2;
 
   Serial.print("Distance: ");
