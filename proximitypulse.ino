@@ -41,7 +41,7 @@ void loop() {
     digitalWrite(leds[i], LOW);
   }
 
-  // Light up LEDs based on distance
+  // Light up LEDs based on distance from sensor
   if (distance > 20) {
     digitalWrite(leds[2], HIGH); // Farther than 20 cm
   } 
