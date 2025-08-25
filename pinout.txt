@@ -1,0 +1,17 @@
+LED (range 1)
+     Signal - 5
+     GND
+
+LED (range 2)
+     Signal - 6
+     GND
+
+LED (range 3)
+     Signal - 7
+     GND
+
+HCSR-04 Ultrasonic Sensor
+     Vcc
+     Trig - 9
+     Echo - 10
+     GND
