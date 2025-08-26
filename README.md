@@ -30,3 +30,4 @@ I put the demonstration video on my portfolio page. Follow the link to get to th
 
 ## Notes
 - 500ms delay between readings
+- Red LED starts to flash if closer than 5cm
